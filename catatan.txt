@@ -1,0 +1,10 @@
+Ini adalah contoh restfull api menggunakan native php
+
+catatan :
+1. ekspor database yang sudah di siapkan
+2. sesuaikan host,user,pw, dan nama database
+3. ini hanya CRUD tabel mahasiswa
+4. ada auth nya di header 'fira' (masih statis)
+5. biasanya ada tabel user dan setiap user mempunyai token, di situ di ambil tokennya
+6. bisa di jalankan di localhost atau hosting online dan bisa di akses (consume api)
+7. kita akan coba untuk consume menggunakan php juga
